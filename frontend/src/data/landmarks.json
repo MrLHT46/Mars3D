@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Hồ Hoàn Kiếm",
+    "lat": 21.028511,
+    "lng": 105.852183,
+    "city": "Hà Nội",
+    "description": "Trái tim của thủ đô với tháp Rùa và cầu Thê Húc."
+  },
+  {
+    "name": "Văn Miếu Quốc Tử Giám",
+    "lat": 21.027764,
+    "lng": 105.835342,
+    "city": "Hà Nội",
+    "description": "Quần thể di tích lâu đời, nơi vinh danh truyền thống hiếu học của người Việt."
+  },
+  {
+    "name": "Lăng Chủ tịch Hồ Chí Minh",
+    "lat": 21.037544,
+    "lng": 105.83416,
+    "city": "Hà Nội",
+    "description": "Nơi an nghỉ của Chủ tịch Hồ Chí Minh tại quảng trường Ba Đình."
+  },
+  {
+    "name": "Nhà hát Lớn Hà Nội",
+    "lat": 21.02389,
+    "lng": 105.857391,
+    "city": "Hà Nội",
+    "description": "Công trình kiến trúc kiểu Pháp, trung tâm nghệ thuật biểu diễn của thủ đô."
+  },
+  {
+    "name": "Cầu Long Biên",
+    "lat": 21.044524,
+    "lng": 105.862428,
+    "city": "Hà Nội",
+    "description": "Biểu tượng lịch sử với kiến trúc độc đáo bắc qua sông Hồng."
+  },
+  {
+    "name": "Vịnh Hạ Long",
+    "lat": 20.9104,
+    "lng": 107.183902,
+    "city": "Quảng Ninh",
+    "description": "Kỳ quan thiên nhiên thế giới với hàng nghìn đảo đá vôi."
+  },
+  {
+    "name": "Phố cổ Hội An",
+    "lat": 15.879445,
+    "lng": 108.335003,
+    "city": "Quảng Nam",
+    "description": "Di sản văn hóa thế giới với kiến trúc cổ và đèn lồng huyền ảo."
+  },
+  {
+    "name": "Phong Nha - Kẻ Bàng",
+    "lat": 17.598223,
+    "lng": 106.285267,
+    "city": "Quảng Bình",
+    "description": "Di sản thiên nhiên nổi tiếng với hệ thống hang động kỳ vĩ."
+  },
+  {
+    "name": "Cố đô Huế",
+    "lat": 16.463713,
+    "lng": 107.590866,
+    "city": "Thừa Thiên Huế",
+    "description": "Quần thể di tích lịch sử và văn hóa thời Nguyễn."
+  },
+  {
+    "name": "Đà Nẵng",
+    "lat": 16.0544068,
+    "lng": 108.2021667,
+    "city": "Đà Nẵng",
+    "description": "Thành phố trẻ năng động với bãi biển Mỹ Khê và cầu Rồng."
+  },
+  {
+    "name": "Đà Lạt",
+    "lat": 11.941593,
+    "lng": 108.458305,
+    "city": "Lâm Đồng",
+    "description": "Thành phố ngàn hoa với khí hậu mát mẻ quanh năm."
+  },
+  {
+    "name": "Thành phố Hồ Chí Minh",
+    "lat": 10.776889,
+    "lng": 106.700806,
+    "city": "TP. Hồ Chí Minh",
+    "description": "Trung tâm kinh tế lớn nhất cả nước với nhịp sống sôi động."
+  },
+  {
+    "name": "Cần Thơ",
+    "lat": 10.045162,
+    "lng": 105.746857,
+    "city": "Cần Thơ",
+    "description": "Thành phố trung tâm của miền Tây sông nước với chợ nổi Cái Răng."
+  },
+  {
+    "name": "Nha Trang",
+    "lat": 12.238791,
+    "lng": 109.196749,
+    "city": "Khánh Hòa",
+    "description": "Thành phố biển nổi tiếng với vịnh biển đẹp và các rạn san hô."
+  },
+  {
+    "name": "Phú Quốc",
+    "lat": 10.282708,
+    "lng": 103.960809,
+    "city": "Kiên Giang",
+    "description": "Đảo ngọc với bãi biển dài và hệ sinh thái phong phú."
+  }
+]

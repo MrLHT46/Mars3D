@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-11-06T10:26:08.428Z",
+  "camera": {
+    "position": {
+      "x": -1620339.3130674586,
+      "y": 5732003.156682688,
+      "z": 2274164.954772411
+    },
+    "heading": 6.283185307179586,
+    "pitch": -1.5694639206998309,
+    "roll": 0
+  },
+  "graphics": [
+    {
+      "type": "3dmodel",
+      "name": "",
+      "position": {
+        "x": -1620215.6348875598,
+        "y": 5731558.003904395,
+        "z": 2273971.658188125
+      },
+      "style": {
+        "length": 188.97287340405938,
+        "topRadius": 21.9966425281989,
+        "bottomRadius": 42.14392882659711,
+        "color": "rgba(43, 143, 125, 0.7)",
+        "outline": true,
+        "outlineColor": "#ffffff",
+        "materialType": "Color"
+      }
+    }
+  ],
+  "layers": [
+    {
+      "id": 1,
+      "name": "Gaode Image",
+      "type": "gaode",
+      "show": true
+    },
+    {
+      "id": "m-cb1eed8f-6496-40ce-980d-02234421afc1",
+      "type": "graphic",
+      "show": true
+    }
+  ],
+  "markers": 0,
+  "polylines": 0,
+  "models3D": 1,
+  "drawings": 0
+}
